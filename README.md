@@ -2,14 +2,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryuukyxkkkj&label=Profile%20views&color=0e75b6&style=flat" alt="ryuukyxkkkj" /> </p>
 
-<script src="https://tryhackme.com/badge/2202952"></script>
-
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/0xkc0777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xkc0777" height="30" width="40" /></a>
 <a href="https://discord.gg/vidarasakj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vidarasakj" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/ryuukyx" target="ryuukyx" height="30" widht="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

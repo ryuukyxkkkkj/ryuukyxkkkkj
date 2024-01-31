@@ -1,6 +1,5 @@
 <h3 align="center">Pentester | Developer | CTF Player</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryuukyxkkkj&label=Profile%20views&color=0e75b6&style=flat" alt="ryuukyxkkkj" /> </p>
 
 <h3 align="left">TryHackMe:</h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/ryuukyx.png" alt="TryHackMe">

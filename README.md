@@ -1,2 +1,1 @@
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ryuukyx.png)](https://tryhackme.com/p/ryuukyx
-)
+![Badge Exemplo](https://img.shields.io/badge/-Exemplo-brightgreen)

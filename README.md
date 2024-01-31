@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://instagram.com/0xkc0777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xkc0777" height="30" width="40" /></a>
 <a href="https://discord.gg/vidarasakj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vidarasakj" height="30" width="40" /></a>
-<a href="https://tryhackme.com/p/ryuukyx" target="ryuukyx" height="30" widht="40" /></a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ryuukyx.png" alt="TryHackMe">
 
 </p>
 
